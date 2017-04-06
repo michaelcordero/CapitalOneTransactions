@@ -8,4 +8,4 @@ well as the .zip for your convenience.
 *****************************************************************
 
 1. javac -classpath ./javax.json-1.0.jar CapitalOneTransactions.java
-2. java -cp . CapitalOneTransactions  //could not get past class load error
+2. nohup java -cp ./javax.json-1.0.jar:. CapitalOneTransactions
