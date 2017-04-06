@@ -8,4 +8,4 @@ well as the .zip for your convenience.
 *****************************************************************
 
 1. javac -classpath ./javax.json-1.0.jar CapitalOneTransactions.java
-2. nohup java -cp ./javax.json-1.0.jar:. CapitalOneTransactions
+2. java -cp ./javax.json-1.0.jar:. CapitalOneTransactions
